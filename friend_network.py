@@ -1,4 +1,5 @@
 import sys
+### 유니온 파운드를 클래스로 구현. 입력되는 이름들에 딕셔너리로 번호를 부여.
 class unionfind:
     def __init__(self):
         self.dic = {}
